@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ixisten
 - 👀 I’m interested in Minecraft and gaming in general.
-- 🌱 I’ve learned a little C# in college and am currently learning Java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’ve learned the basics of C# in college and am currently learning Java.
+- 💞️ I’m looking for a career in java currently.
 - 📫 How to reach me: ryan4dave@hotmail.ca
 
 <!---
